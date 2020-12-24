@@ -1,4 +1,4 @@
-To execute the Python Suduko Solver :-
+To execute the Python Suduko Solver (for Windows users only) :-
 
 METHOD 1:
 
@@ -17,3 +17,6 @@ METHOD 2:
 In both the methods, the answer will be saved in <solution.txt> for reference.
 
 The <soduko.txt> already has a default Suduko grid to check the workings of the program.
+
+    NOTE : This project requires python3 or above. 
+           <RUN.bat> file will not work on any other OS other than Windows. 
