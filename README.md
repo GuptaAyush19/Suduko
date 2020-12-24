@@ -15,3 +15,5 @@ METHOD 2:
     2. Click the <RUN.bat> file and it will execute automatically.
 
 In both the methods, the answer will saved in <solution.txt> for reference.
+
+The <soduko.txt> already has a default Suduko grid to check the workings of the program.
