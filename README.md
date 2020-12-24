@@ -20,5 +20,5 @@ In both the methods, the answer will be saved in <solution.txt> for reference.
 The <soduko.txt> already has a default Suduko grid to check the workings of the program.
 
 
-    NOTE : This project requires python3 or above. 
+    NOTE : This project requires python3 or above. Download it from https://www.python.org/downloads/
            <RUN.bat> file will not work on any other OS other than Windows. 
