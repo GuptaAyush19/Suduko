@@ -1,4 +1,4 @@
-### PYTHON SUDKO SOLVER
+### PYTHON SUDUKO SOLVER
 To execute the Python Suduko Solver (for Windows users only) :-
 
 METHOD 1:
